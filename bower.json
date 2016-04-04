@@ -1,0 +1,23 @@
+{
+  "name": "polymer",
+  "description": "Demo project for polymer",
+  "main": "index.html",
+  "authors": [
+    "Alexandru Mortan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "polymer",
+    "webcomponents"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

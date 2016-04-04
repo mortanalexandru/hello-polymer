@@ -1,0 +1,18 @@
+{
+  "name": "polymer",
+  "version": "1.0.0",
+  "description": "Demo project for polymer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [
+    "polymer",
+    "webcomponents"
+  ],
+  "author": "Alexandru Mortan",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}

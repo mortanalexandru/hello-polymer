@@ -1,0 +1,22 @@
+<!-- Imports polymer -->
+<link rel="import" href="/bower_components/polymer/polymer.html">
+
+<!-- Defines element markup -->
+<dom-module id="hello-world">
+    <template>
+        <p>{{placeholder}} :)</p>
+    </template>
+</dom-module>
+
+<!-- Registers custom element -->
+<script>
+Polymer({
+    is: 'hello-world',
+    properties: {
+        placeholder: {
+            type: String,
+            value: 'Hello World'
+        }
+    }
+});
+</script>
