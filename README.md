@@ -20,6 +20,9 @@ In order to run it locally you need to fetch some node and bower dependencies fo
     ```sh
     $ bower install
     ```
+	```sh
+    $ npm install
+    ```
 
 3. Start development [Lite-Server](https://github.com/johnpapa/lite-server) (with [Browser-Sync](https://browsersync.io/))
 
